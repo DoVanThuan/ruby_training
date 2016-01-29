@@ -1,9 +1,10 @@
-[25/1/2016] Đỗ Văn Thuận
+[29/1/2016] Đỗ Văn Thuận
+do chỉ có tối để làm nên em chưa thể hoàn thành chương 5 
 Công việc hoàn thành:
-- Đọc chương 1: say "hello world" bằng ngôn ngữ ruby +up lên git
-- Làm xong bai tap chương 1 + up len git
--https://github.com/DoVanThuan/ruby_training/tree/master/ruby_chap1
+- Đọc chương xong 4
+- hoàn thành  exercises(chi co bai 3 dk up len git)
+
 
 Công việc ngày mai:
-- đọc chương 2
-// ngày mai anh cho em xin phép tiến triển chậm 1 chút để phuc vụ cho vài tập trên lớp. em sẽ tăng tố bù vào sáng tối t4 và ngày t5
+- hoàn thành chương 5
+- đọc chương 6
